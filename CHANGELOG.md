@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.15.1](https://github.com/memhtml/memhtml/compare/memhtml-v0.15.0...memhtml-v0.15.1) (2026-09-13)
+
+
+### Bug Fixes
+
+* **cli:** read the expected receipt version from the manifest instead of a literal ([#183](https://github.com/memhtml/memhtml/issues/183)) ([50a88ce](https://github.com/memhtml/memhtml/commit/50a88ceb34e8297669b7f20bcad3572d4a3f8c91))
+
 ## [0.15.0](https://github.com/memhtml/memhtml/compare/memhtml-v0.14.0...memhtml-v0.15.0) (2026-09-13)
 
 
